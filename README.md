@@ -18,5 +18,5 @@
 - FPGA Implementation (Next step!)
 
 📫 Contact:
-- [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/vishnu-patil-617409330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+- [LinkedIn] ([https://linkedin.com](https://www.linkedin.com/in/vishnu-patil-617409330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 - GitHub: @vishnu-patil01
